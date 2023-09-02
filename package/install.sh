@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 允许使用的版本
-VERSION="3.2.3"
+VERSION="3.3.1"
 # 临时目录
 TMP_PATH=/tmp/nas-tools
 # 套件目录
